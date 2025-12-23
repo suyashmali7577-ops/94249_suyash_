@@ -1,0 +1,11 @@
+../Inc/system_stm32f4xx.h:128:20:DelayMs	2
+../Src/left_to_righ2t.c:39:5:main	1
+../Src/left_to_righ2t.c:63:6:led_init	1
+../Src/left_to_righ2t.c:79:6:led_on1	1
+../Src/left_to_righ2t.c:83:6:led_on2	1
+../Src/left_to_righ2t.c:87:6:led_on3	1
+../Src/left_to_righ2t.c:91:6:led_on4	1
+../Src/left_to_righ2t.c:95:6:led_off1	1
+../Src/left_to_righ2t.c:99:6:led_off2	1
+../Src/left_to_righ2t.c:103:6:led_off3	1
+../Src/left_to_righ2t.c:107:6:led_off4	1
